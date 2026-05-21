@@ -1,0 +1,2 @@
+# Sistemas-Operacionais---Processos-Leitores-Escritores-Processos-Produtores-Consumidores
+Trabalho prático 1 - Repositório do TP1 de Sistemas Operacionais (UFAM). Implementação concorrente em C utilizando threads (pthread) e semáforos para resolver o problema clássicos dos Leitores e Escritores, contextualizado em um Histórico Geral de Chat. Contém três variações de controle de concorrência com simulação de atrasos e logs de execução.
