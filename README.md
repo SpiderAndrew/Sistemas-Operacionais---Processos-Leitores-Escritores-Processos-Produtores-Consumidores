@@ -1,4 +1,13 @@
-Repositório do Trabalho Prático 1 de Sistemas Operacionais (UFAM). Implementação concorrente em C (pthread e semáforos) abordando dois problemas clássicos de sincronização: Leitores e Escritores (contextualizado em Servidor com um Histórico de Chat) e Produtores e Consumidores (usando um Buffer Circular). Contém versões com e sem controle de concorrência e simulação de atrasos.
+Repositório do Trabalho Prático 1 de Sistemas Operacionais. Implementação concorrente em C (pthread e semáforos) abordando dois problemas clássicos de sincronização: Leitores e Escritores (contextualizado em Servidor com um Histórico de Chat) e Produtores e Consumidores (usando um Buffer Circular). Contém versões com e sem controle de concorrência e simulação de atrasos.
+
+O Trabalho Prático 1 foi feito pelos alunos do curso de Sistemas Operacionais ministrado pelo professor João Marcos Bastos Cavalcanti, pelo Instituto de Computação (IComp) – Universidade Federal do Amazonas
+
+A equipe de alunos é composta pelos membros: 
+
+ANDREW DONOVAN COELHO SANTOS - 22152016
+FRANCISCO FELIPE BARROS DOS SANTOS - 22152031
+GLADSTON GABRIEL TAVARES ALMEIDA - 22400546
+
 
 1. Guia de ambientação e execução (Github Codespace) 
 
